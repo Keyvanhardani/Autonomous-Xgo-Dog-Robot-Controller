@@ -29,6 +29,15 @@ This repository contains the code for an autonomous robotic dog, designed to int
 3. The robot will move towards detected people, maintaining a safe distance.
 4. If no people are detected, the robot will turn to search for them.
 
+## TODO
+
+- [ ] Improve face detection accuracy.
+- [ ] Optimize face detection performance for real-time processing.
+- [ ] Refine the turning mechanism to be more responsive to object detection.
+- [ ] Integrate additional sensors for enhanced environmental awareness.
+- [ ] Implement machine learning algorithms for better object classification.
+- [ ] In progress: Enhance the obstacle avoidance system.
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
