@@ -6,7 +6,6 @@ import spidev as SPI
 import xgoscreen.LCD_2inch as LCD_2inch
 from PIL import Image, ImageDraw, ImageFont
 from xgolib import XGO
-from robot_functions import *
 import threading
 import random
 import atexit
